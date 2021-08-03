@@ -566,7 +566,7 @@ p {
     }
 
     .features__item {
-        width: 50%;
+        width: 100%;
         padding-right: 0;
         padding-left: 0;
     }
