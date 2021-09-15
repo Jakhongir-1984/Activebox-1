@@ -132,12 +132,13 @@ p {
     display: inline-block;
     vertical-align: top;
     padding: 14px 40px;
-    border-radius: 2px;
+    border-radius: 5px;
     border: 0;
     font-family: inherit;
     cursor: pointer;
     font-size: 13px;
     color: #fff;
+    background-color: #3A68B8;
     font-weight: 600;
     text-align: center;
     text-transform: uppercase;
